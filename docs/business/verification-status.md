@@ -61,9 +61,9 @@ potentially misleading, or otherwise restricted information.
 
 | Information | Status | Source / Reason |
 |---|---|---|
-| Business name: Universal RCC Chimneys | HISTORICAL / PENDING | Existing company catalogue; current official naming requires confirmation |
-| "A Unit of KGN Ceramics & Refractories" | HISTORICAL / PENDING | Existing catalogue; current legal/business relationship requires confirmation |
-| Md. Zahurullah as Proprietor | HISTORICAL / PENDING | Existing catalogue |
+| Business name: Universal RCC Chimneys | HISTORICAL | Existing company catalogue; current official naming still requires confirmation |
+| "A Unit of KGN Ceramics & Refractories" | HISTORICAL | Existing catalogue; current legal/business relationship still requires confirmation |
+| Md. Zahurullah as Proprietor | HISTORICAL | Existing catalogue |
 | Md. Ziaullah alias Md. Kamaal Pasha involved in business | VERIFIED | User-confirmed |
 | Official designation of Md. Ziaullah / Md. Kamaal Pasha | PENDING | Requires business confirmation |
 | Gujarat office is active | VERIFIED | User-confirmed |
@@ -77,19 +77,19 @@ potentially misleading, or otherwise restricted information.
 | GSTIN | PENDING | Requires confirmation/documentation |
 | Company registration details | PENDING | Requires confirmation/documentation |
 | Certifications | PENDING | Requires documentary verification |
-| Establishment year | HISTORICAL / PENDING | Catalogue states 1998; current confirmation required |
-| New RCC chimney construction | HISTORICAL / PENDING | Catalogue service; current confirmation required |
-| Chimney and boiler repair | HISTORICAL / PENDING | Catalogue service; current confirmation required |
-| Refractory works | HISTORICAL / PENDING | Catalogue service; current confirmation required |
-| RCC & MS chimney painting | HISTORICAL / PENDING | Catalogue service; current confirmation required |
-| Refractory material supply | HISTORICAL / PENDING | Catalogue service; current confirmation required |
+| Establishment year | HISTORICAL | Catalogue states 1998; current confirmation still required before publication |
+| New RCC chimney construction | HISTORICAL | Catalogue service; current confirmation still required before publication |
+| Chimney and boiler repair | HISTORICAL | Catalogue service; current confirmation still required before publication |
+| Refractory works | HISTORICAL | Catalogue service; current confirmation still required before publication |
+| RCC & MS chimney painting | HISTORICAL | Catalogue service; current confirmation still required before publication |
+| Refractory material supply | HISTORICAL | Catalogue service; current confirmation still required before publication |
 | Design/engineering services | PENDING | Exact current scope not confirmed |
 | Material supply + installation model | PENDING | Requires business confirmation |
 | Current project portfolio | PENDING | Recent projects required |
 | Client permission for displaying names | PENDING | Requires confirmation per client/project |
 | Client permission for displaying photographs | PENDING | Requires confirmation per project |
 | Current customer acquisition channels | PENDING | Requires business-owner interview |
-| Current annual turnover | UNKNOWN / DO NOT PUBLISH | No verified figure available |
+| Current annual turnover | DO NOT PUBLISH | No verified figure available; the current figure remains unknown |
 
 ---
 
@@ -99,7 +99,7 @@ potentially misleading, or otherwise restricted information.
 
 Status:
 
-HISTORICAL / PENDING
+HISTORICAL
 
 The existing company catalogue uses the name "Universal RCC Chimneys".
 
@@ -112,7 +112,7 @@ publication.
 
 Status:
 
-HISTORICAL / PENDING
+HISTORICAL
 
 The catalogue describes Universal RCC Chimneys as:
 
@@ -137,7 +137,7 @@ Proprietor
 
 Status:
 
-HISTORICAL / PENDING CURRENT CONFIRMATION
+HISTORICAL
 
 Do not automatically display this designation on the website until
 confirmed.
@@ -148,7 +148,7 @@ confirmed.
 
 Status:
 
-VERIFIED as a person involved with the business.
+VERIFIED
 
 Official business designation:
 
@@ -164,7 +164,9 @@ Do not assign an official title until confirmed.
 
 Current status:
 
-VERIFIED as an active office and the main/head office.
+VERIFIED
+
+The Gujarat office is confirmed as active and as the main/head office.
 
 Exact current address:
 
@@ -179,7 +181,9 @@ as the current head-office address.
 
 Current status:
 
-VERIFIED as an active office.
+VERIFIED
+
+The Vuyyuru office is confirmed as active.
 
 Exact current address:
 
@@ -237,7 +241,7 @@ The existing catalogue provides evidence for five service categories:
 
 Current status:
 
-HISTORICAL / PENDING
+HISTORICAL
 
 The current service scope must be confirmed by the business.
 

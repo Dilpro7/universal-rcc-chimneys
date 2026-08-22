@@ -1011,15 +1011,16 @@ repository exists.
 
 The intended workflow is:
 
-Documentation
-→ Research
-→ Strategy
-→ Architecture
-→ Design
+Foundation
+→ Business / Market Research
+→ SEO Research
+→ Information Architecture
+→ Technology Architecture
+→ UX / Design
 → Development
 → Testing
 → Deployment
-→ Monitoring
+→ SEO Monitoring / Iteration
 
 Exceptions are allowed for small prototypes used specifically to
 validate a technical hypothesis.

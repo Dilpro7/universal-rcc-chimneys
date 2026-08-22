@@ -108,6 +108,10 @@ Codex should:
 - [ ] Record newly verified information
 - [ ] Identify unresolved questions
 
+This owner-verification work should be prepared early so later SEO,
+information-architecture, and content decisions do not assume
+unverified business capabilities.
+
 ---
 
 # Phase 2 — Project Portfolio Research
@@ -278,16 +282,14 @@ For each important keyword cluster determine:
 - [ ] Check trademark/confusion risks
 - [ ] Shortlist candidates
 
-## Domain Decision
+## Domain Research Output
 
 - [ ] Present shortlist to user
-- [ ] Select final domain
-- [ ] Obtain explicit user approval
-- [ ] Purchase domain
-- [ ] Record ownership details securely
-- [ ] Configure DNS
 
-Do not purchase a domain without explicit approval.
+This phase is limited to research and shortlisting.
+
+Do not select, purchase, register, or configure a domain in this
+phase.
 
 ---
 
@@ -308,7 +310,24 @@ Do not purchase a domain without explicit approval.
 
 ---
 
-# Phase 8 — UX & Design
+# Phase 8 — Technology & Architecture
+
+- [ ] Evaluate suitable frontend frameworks
+- [ ] Evaluate rendering strategies
+- [ ] Evaluate static vs server-rendered architecture
+- [ ] Evaluate hosting platforms
+- [ ] Evaluate form-processing options
+- [ ] Determine whether backend is required
+- [ ] Determine whether database is required
+- [ ] Determine whether CMS is required
+- [ ] Determine whether authentication is required
+- [ ] Determine analytics requirements
+- [ ] Select final technology stack
+- [ ] Record architecture decision
+
+---
+
+# Phase 9 — UX & Design
 
 ## UX
 
@@ -340,23 +359,6 @@ Do not purchase a domain without explicit approval.
 - [ ] Review contact/enquiry concept
 - [ ] Validate mobile UX
 - [ ] Validate accessibility direction
-
----
-
-# Phase 9 — Technology & Architecture
-
-- [ ] Evaluate suitable frontend frameworks
-- [ ] Evaluate rendering strategies
-- [ ] Evaluate static vs server-rendered architecture
-- [ ] Evaluate hosting platforms
-- [ ] Evaluate form-processing options
-- [ ] Determine whether backend is required
-- [ ] Determine whether database is required
-- [ ] Determine whether CMS is required
-- [ ] Determine whether authentication is required
-- [ ] Determine analytics requirements
-- [ ] Select final technology stack
-- [ ] Record architecture decision
 
 ---
 
@@ -489,11 +491,20 @@ Do not purchase a domain without explicit approval.
 - [ ] Connect Git repository
 - [ ] Configure preview deployments
 - [ ] Configure production deployment
-- [ ] Connect domain
-- [ ] Configure DNS
 - [ ] Configure HTTPS
 - [ ] Verify redirects
 - [ ] Verify production build
+
+## Domain Selection, Purchase, and DNS
+
+- [ ] Select final domain
+- [ ] Obtain explicit user approval
+- [ ] Purchase domain
+- [ ] Record ownership details securely
+- [ ] Configure DNS
+- [ ] Connect domain
+
+Domain purchase and DNS changes require explicit approval.
 
 Production changes require explicit approval.
 
@@ -587,10 +598,10 @@ The current highest-priority tasks are:
 2. [ ] Complete `docs/seo/README.md`
 3. [ ] Review all foundation documents
 4. [ ] Create initial documentation commit
-5. [ ] Begin structured market/competitor research
-6. [ ] Begin SEO research
-7. [ ] Evaluate domain strategy
-8. [ ] Prepare owner verification questionnaire
+5. [ ] Prepare owner verification questionnaire
+6. [ ] Begin structured market/competitor research
+7. [ ] Begin domain research and shortlisting
+8. [ ] Begin SEO research
 9. [ ] Determine information architecture
 10. [ ] Determine technology architecture
 

@@ -678,28 +678,49 @@ Development should follow the validated information architecture.
 - Verification system
 - Project requirements
 
-## Phase 2 — Research
+## Phase 2 — Business / Market Research
 
-- Business/market research
+- Business verification follow-up
+- Customer and sales-process research
+- Project portfolio research
+- Market research
 - Competitor research
+- Domain research
+
+## Phase 3 — SEO Research
+
 - Keyword research
 - Search-intent analysis
-- Domain research
-- SEO strategy
-- Information architecture
+- SERP analysis
+- Keyword clustering
+- Keyword-to-page mapping
 
-## Phase 3 — UX / Design
+## Phase 4 — Information Architecture
 
 - Sitemap
+- Navigation structure
+- Page hierarchy
+- URL structure
+- Content architecture
+
+## Phase 5 — Technology Architecture
+
+- Framework evaluation
+- Rendering-strategy evaluation
+- Hosting evaluation
+- Form-handling evaluation
+- Architecture decision
+
+## Phase 6 — UX / Design
+
 - User flows
 - Wireframes
 - Visual direction
 - Responsive design system
 - Conversion strategy
 
-## Phase 4 — Development
+## Phase 7 — Development
 
-- Framework selection
 - Component architecture
 - Page implementation
 - Content integration
@@ -708,7 +729,7 @@ Development should follow the validated information architecture.
 - Accessibility
 - Performance optimization
 
-## Phase 5 — Validation
+## Phase 8 — Validation
 
 - Functional testing
 - Responsive testing
@@ -718,7 +739,7 @@ Development should follow the validated information architecture.
 - Security review
 - Content verification
 
-## Phase 6 — Deployment
+## Phase 9 — Deployment
 
 - Production infrastructure
 - Domain
@@ -729,7 +750,7 @@ Development should follow the validated information architecture.
 - Sitemap submission
 - Production verification
 
-## Phase 7 — Post-Launch SEO
+## Phase 10 — SEO Monitoring / Iteration
 
 - Search performance monitoring
 - Content improvements

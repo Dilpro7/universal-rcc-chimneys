@@ -53,11 +53,12 @@ The initial project phase focuses on:
 
 1. Documentation
 2. Business verification
-3. Research
-4. SEO strategy
-5. Architecture
-6. Design
-7. Development
+3. Business and market research
+4. SEO research
+5. Information architecture
+6. Technology architecture
+7. UX/design
+8. Development
 
 ---
 
@@ -559,15 +560,16 @@ initial research and architecture decisions have been established.
 
 ## Current Workflow
 
-Documentation
-→ Research
-→ SEO strategy
-→ Architecture
-→ Design
+Foundation
+→ Business / Market Research
+→ SEO Research
+→ Information Architecture
+→ Technology Architecture
+→ UX / Design
 → Development
 → Testing
 → Deployment
-→ Monitoring
+→ SEO Monitoring / Iteration
 
 ---
 

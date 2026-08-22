@@ -36,7 +36,7 @@ Source:
 Existing Universal RCC Chimneys company catalogue.
 
 Status:
-HISTORICAL / PENDING CURRENT CONFIRMATION
+HISTORICAL
 
 These five services form the initial service taxonomy for the website.
 
@@ -52,7 +52,7 @@ recording the decision in DECISIONS.md.
 New RCC Chimney Construction Works
 
 Status:
-HISTORICAL / PENDING CURRENT CONFIRMATION
+HISTORICAL
 
 The catalogue presents RCC chimney construction as a primary business
 activity and describes Universal RCC Chimneys as specializing in
@@ -83,7 +83,7 @@ construction, including topics such as:
 - Other chimney accessories
 
 Status:
-HISTORICAL SOURCE MATERIAL
+HISTORICAL
 
 The presence of technical information in the catalogue does not by
 itself establish that every listed item is currently offered as a
@@ -97,8 +97,7 @@ Potential website page:
 
 `/services/rcc-chimney-construction/`
 
-Status:
-PROPOSED
+This is a proposed page path only.
 
 The final URL structure should be determined during SEO and
 information-architecture research.
@@ -112,7 +111,7 @@ information-architecture research.
 Chimney and Boiler Repair Works
 
 Status:
-HISTORICAL / PENDING CURRENT CONFIRMATION
+HISTORICAL
 
 The catalogue identifies repair work for chimneys and boilers as a
 company activity.
@@ -151,7 +150,7 @@ confirmed.
 Refractory Works — New and Repairs
 
 Status:
-HISTORICAL / PENDING CURRENT CONFIRMATION
+HISTORICAL
 
 The catalogue describes refractory lining work as one of the company's
 activities.
@@ -168,8 +167,7 @@ Potential service page:
 
 `/services/refractory-works/`
 
-Status:
-PROPOSED
+This is a proposed page path only.
 
 The exact scope of refractory installation and repair must be
 confirmed before publication.
@@ -195,7 +193,7 @@ Do not claim any item above as a current service without confirmation.
 RCC & MS Chimney Painting Works
 
 Status:
-HISTORICAL / PENDING CURRENT CONFIRMATION
+HISTORICAL
 
 The catalogue explicitly lists painting works for RCC and MS chimneys.
 
@@ -230,7 +228,7 @@ or guarantees until confirmed.
 Refractory Material Supply
 
 Status:
-HISTORICAL / PENDING CURRENT CONFIRMATION
+HISTORICAL
 
 The catalogue identifies refractory material supply as a company
 activity.
@@ -253,7 +251,7 @@ materials and discusses categories such as:
 - Related refractory products
 
 Status:
-HISTORICAL SOURCE MATERIAL
+HISTORICAL
 
 The presence of these materials in the catalogue does not prove that
 all of them are currently stocked, manufactured, distributed, or sold
@@ -268,7 +266,7 @@ before publishing a detailed product list.
 
 ## Current Status
 
-PENDING CONFIRMATION
+PENDING
 
 The catalogue describes Universal RCC Chimneys as specializing in
 designing and constructing RCC chimneys.
@@ -305,7 +303,7 @@ services.
 
 ## Current Status
 
-PENDING CONFIRMATION
+PENDING
 
 The catalogue identifies refractory material supply as an activity,
 but it does not provide enough current information to determine the
@@ -328,7 +326,7 @@ The website must accurately reflect the confirmed model.
 The business intends to serve customers throughout India.
 
 Status:
-USER-CONFIRMED
+VERIFIED
 
 The website should therefore be designed for nationwide B2B
 visibility rather than being restricted to Vuyyuru or Gujarat.
@@ -356,7 +354,7 @@ sectors including:
 - Other industrial plants
 
 Status:
-HISTORICAL / PENDING CURRENT CONFIRMATION
+HISTORICAL
 
 The current target-industry list should be verified with the business.
 
@@ -382,3 +380,4 @@ Possible initial structure:
     refractory-works/
     chimney-painting/
     refractory-material-supply/
+```

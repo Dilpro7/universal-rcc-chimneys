@@ -27,7 +27,7 @@ Codex must never invent missing business information.
 
 Universal RCC Chimneys
 
-Status: VERIFIED / HISTORICAL
+Status: HISTORICAL
 
 The existing company catalogue identifies the business as:
 
@@ -85,7 +85,7 @@ Do not publish this information as current until confirmed.
 
 Md. Ziaullah alias Md. Kamaal Pasha
 
-Status: USER-CONFIRMED
+Status: VERIFIED
 
 This person is the user's stepfather and is involved in the business.
 
@@ -164,7 +164,7 @@ current website copy until the business confirms the information.
 
 The business is intended to serve customers across India.
 
-Status: USER-CONFIRMED
+Status: VERIFIED
 
 Target geography:
 
@@ -179,7 +179,7 @@ The Gujarat office is currently active.
 The user has confirmed that the Gujarat office functions as the
 main/head office.
 
-Status: USER-CONFIRMED
+Status: VERIFIED
 
 The exact current official address is pending verification.
 
@@ -191,7 +191,7 @@ Surat Bardoli Road,
 Kadodara-394 327,
 Gujarat.
 
-Status: HISTORICAL / PENDING CURRENT VERIFICATION
+Status: HISTORICAL
 
 Do not publish the historical address as the current head-office
 address until confirmed.
@@ -202,7 +202,7 @@ address until confirmed.
 
 The Vuyyuru office is currently active.
 
-Status: USER-CONFIRMED
+Status: VERIFIED
 
 Historical catalogue address:
 
@@ -213,7 +213,7 @@ Vuyyuru,
 Krishna District,
 Andhra Pradesh - 521165.
 
-Status: HISTORICAL / PENDING CURRENT VERIFICATION
+Status: HISTORICAL
 
 Do not publish the historical address as the current official address
 until confirmed.
@@ -236,7 +236,7 @@ Mobile numbers listed in catalogue:
 - 99510 87619
 - 91542 86786
 
-Status: HISTORICAL / PENDING CURRENT VERIFICATION
+Status: HISTORICAL
 
 ---
 
@@ -244,7 +244,7 @@ Status: HISTORICAL / PENDING CURRENT VERIFICATION
 
 universalchimneys@gmail.com
 
-Status: HISTORICAL / PENDING CURRENT VERIFICATION
+Status: HISTORICAL
 
 Do not assume this is the current official email address.
 
@@ -461,7 +461,7 @@ documentary evidence is provided.
 
 # 15. Revenue / Turnover
 
-Status: UNKNOWN / DO NOT PUBLISH
+Status: DO NOT PUBLISH
 
 Current annual turnover has not been established.
 
