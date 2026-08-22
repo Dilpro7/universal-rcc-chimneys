@@ -50,8 +50,8 @@ Codex should:
 - [x] Create `docs/business/company-profile.md`
 - [x] Create `docs/business/services.md`
 - [x] Create `docs/business/verification-status.md`
-- [ ] Complete `docs/research/README.md`
-- [ ] Complete `docs/seo/README.md`
+- [x] Complete `docs/research/README.md` (research methodology and evidence model added 2026-08-22)
+- [x] Complete `docs/seo/README.md` (SERP evidence requirements added 2026-08-22)
 
 ## Foundation Review
 
@@ -594,16 +594,16 @@ When the business owner becomes available:
 
 The current highest-priority tasks are:
 
-1. [ ] Complete `docs/research/README.md`
-2. [ ] Complete `docs/seo/README.md`
-3. [ ] Review all foundation documents
-4. [ ] Create initial documentation commit
-5. [ ] Prepare owner verification questionnaire
-6. [ ] Begin structured market/competitor research
-7. [ ] Begin domain research and shortlisting
-8. [ ] Begin SEO research
-9. [ ] Determine information architecture
-10. [ ] Determine technology architecture
+1. [-] Collect reproducible, dated SERP snapshots for the initial commercial themes (autocomplete discovery recorded; results-page capture remains blocked)
+2. [!] Build a purposive direct/SERP/regional/national competitor sample (blocked pending reproducible SERP access)
+3. [-] Create evidence-backed keyword and intent clusters, conditional on service verification (initial autocomplete clusters recorded)
+4. [ ] Review all foundation documents
+5. [ ] Create initial documentation commit
+6. [x] Prepare owner verification questionnaire (`docs/research/owner-verification-questionnaire.md`)
+7. [ ] Begin domain research and shortlisting after public business-name confirmation
+8. [ ] Conduct owner interview when available and update the verification register
+9. [ ] Determine information architecture after business and search-intent gates
+10. [ ] Determine technology architecture after information architecture and lead workflow
 
 ---
 

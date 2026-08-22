@@ -573,6 +573,49 @@ Foundation
 
 ---
 
+# Decision 021 — Use a Traceable Research Evidence Model
+
+## Status
+
+ACCEPTED
+
+## Decision
+
+Research findings will be recorded as compact, source-linked evidence records
+that distinguish facts, observations, inferences, and recommendations. The
+research system will be expanded incrementally: topic directories are created
+only when their first evidence-backed artifact is ready.
+
+## Context
+
+Phase 2 requires SERP, competitor, keyword, domain, technical, and buyer
+research across several future sessions while material business facts remain
+pending. Unstructured notes would make time-sensitive evidence difficult to
+audit and encourage repeated research or accidental conversion of research
+inferences into business claims.
+
+## Alternatives Considered
+
+1. Keep all research in a single README.
+2. Create a full directory tree and empty templates immediately.
+3. Use a methodology, evidence standard, and owner questionnaire now; create
+   focused topic artifacts only as evidence is collected.
+
+## Reason
+
+The third option preserves traceability and context efficiency without creating
+documentation theatre. It also makes date, source, scope, confidence, and
+business-verification boundaries explicit for volatile SERP and domain work.
+
+## Consequences
+
+`docs/research/methodology.md` is the shared method. SERP and competitor
+observations require direct URLs and dates; business facts continue to be
+governed by `docs/business/verification-status.md`. This decision does not
+select a website architecture, domain, technology, or service scope.
+
+---
+
 # Decision Log Maintenance
 
 When adding a new significant decision:

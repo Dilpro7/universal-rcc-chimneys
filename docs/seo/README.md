@@ -168,6 +168,11 @@ For important queries evaluate:
 
 Record meaningful observations.
 
+Every SERP record must include the query, search engine, country/language,
+device where known, observation date, visible SERP features, ranking-page
+types, direct URLs, and an intent interpretation marked as an observation or
+inference. Rankings are volatile and must not be described as permanent facts.
+
 ---
 
 # 8. Competitor SEO Analysis
@@ -566,7 +571,7 @@ Do not create empty documents merely for the sake of having files.
 
 Status:
 
-NOT STARTED
+RESEARCH SYSTEM READY; EVIDENCE COLLECTION NOT YET STARTED
 
 The initial keyword themes have been identified, but no keyword has
 yet been formally validated as a primary target.
@@ -580,6 +585,12 @@ The next SEO phase should involve actual:
 5. Keyword clustering
 6. Keyword-to-page mapping
 7. Information architecture
+
+Use `docs/research/methodology.md` for the evidence-record standard, SERP
+collection method, dedicated-page test, and anti-doorway safeguards. SEO
+research findings must distinguish search observations from verified business
+capability. A query can be a research candidate without becoming a service
+claim or a page.
 
 ---
 
