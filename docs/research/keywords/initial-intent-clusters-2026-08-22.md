@@ -33,3 +33,8 @@ Only then assess relative competition based on observable signals such as
 recurring established domains, directories/marketplaces, rich features, local
 packs, and content/technical depth. These are competition signals—not keyword
 difficulty metrics.
+
+The first direct Google request attempts are recorded in
+[`../serp/google-india-results-access-log-2026-08-22.md`](../serp/google-india-results-access-log-2026-08-22.md).
+They did not yield inspectable result listings, so they do not refine these
+clusters beyond documenting the access limitation.

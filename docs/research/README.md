@@ -364,6 +364,7 @@ Current documents:
 - `methodology.md` — research decision gates, evidence standard, and methods
 - `owner-verification-questionnaire.md` — owner-only verification questions
 - `serp/google-autocomplete-2026-08-22.md` — dated query-discovery evidence
+- `serp/google-india-results-access-log-2026-08-22.md` — reproducible results-access limitation
 - `keywords/initial-intent-clusters-2026-08-22.md` — provisional clusters
 - `technical/google-search-guidance-2026-08-22.md` — primary Google guidance
 - `domains/domain-research-status-2026-08-22.md` — domain-research boundary

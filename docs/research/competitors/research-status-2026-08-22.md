@@ -8,7 +8,12 @@ competitor in this artifact.
 ## Evidence and Limitation
 
 The live search endpoint available during this research session returned an
-authorization error, and standard search-engine results requests were blocked.
+authorization error. Reproducible Google requests using English/India locale
+parameters returned HTTP 200 JavaScript/retry pages rather than inspectable
+result listings; the query-level evidence is in
+[`../serp/google-india-results-access-log-2026-08-22.md`](../serp/google-india-results-access-log-2026-08-22.md).
+Standard search-engine results requests were therefore blocked from yielding an
+inspectable ranking list.
 Google autocomplete did return query suggestions, but it does not provide a
 reproducible ranking list. A named phrase in autocomplete is therefore not
 sufficient evidence to call a company a competitor or to assess its services.
