@@ -85,6 +85,7 @@ until its status is updated there.
     project sizes the company does not accept and that a website should not
     encourage?
 
+
 ## Completion Record
 
 For each answer, capture: answer date, person confirming it, supporting file or

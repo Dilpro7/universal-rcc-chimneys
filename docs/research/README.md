@@ -369,8 +369,6 @@ Current documents:
 - `technical/google-search-guidance-2026-08-22.md` — primary Google guidance
 - `domains/domain-research-status-2026-08-22.md` — domain-research boundary
 - `competitors/research-status-2026-08-22.md` — documented SERP-access limit
-- `../business/verification-status.md` — authoritative business-verification
-  and website-readiness register
 
 Create these directories only when their first evidence-backed record is ready:
 
