@@ -896,12 +896,16 @@ Do not use chat history as the project's only source of truth.
 
 Status:
 
-FOUNDATION / DOCUMENTATION
+FOUNDATION / RESEARCH READINESS
 
 Current priority:
 
-Complete project documentation and establish a reliable source of
-truth before beginning major research or development.
+Maintain the verified business-information register and evidence-first research
+framework while owner-dependent business verification and reproducible SERP
+capture remain blocked.
+
+Safe work may continue only where it does not require unverified business facts
+or fabricated search evidence.
 
 No production website implementation has been approved yet.
 

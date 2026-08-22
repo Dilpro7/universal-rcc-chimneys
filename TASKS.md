@@ -55,11 +55,17 @@ Codex should:
 
 ## Foundation Review
 
-- [ ] Review all foundation documents for contradictions
-- [ ] Verify file structure
-- [ ] Verify Markdown formatting
-- [ ] Create first clean documentation commit
-- [ ] Push documentation foundation to GitHub
+- [x] Review all foundation documents for contradictions
+      (foundation review refreshed after merged research/readiness work on
+      2026-08-22)
+- [x] Verify file structure
+      (repository contains the expected project, business, research, and SEO
+      documentation files only)
+- [x] Verify Markdown formatting
+      (core documentation rechecked; no broken conflict markers or unfinished
+      code blocks remain in the tracked docs set)
+- [x] Create first clean documentation commit
+- [x] Push documentation foundation to GitHub
 
 ---
 
@@ -612,9 +618,9 @@ The current highest-priority tasks are:
 
 8. [ ] Begin domain research and shortlisting after public business-name confirmation
 
-9. [ ] Review all foundation documents
+9. [x] Review all foundation documents
 
-10. [ ] Create initial documentation commit
+10. [x] Create initial documentation commit
 
 11. [x] Prepare owner verification questionnaire (`docs/research/owner-verification-questionnaire.md`)
 
