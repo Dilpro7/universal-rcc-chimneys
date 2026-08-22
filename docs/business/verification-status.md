@@ -93,6 +93,72 @@ potentially misleading, or otherwise restricted information.
 
 ---
 
+# 2A. Website Implementation Readiness Register
+
+## Purpose and Authority
+
+This is the single authoritative field-level register for business facts needed
+to prepare or publish the website. It supplements the summary above without
+changing any fact's verification status. Where this register and another
+business document differ, this register and direct current owner evidence take
+priority.
+
+**Source required** identifies the minimum evidence to change a status.
+**Owner mandatory** indicates whether independent research is insufficient.
+**Public evidence** means documentary, permission, or other evidence needed
+before the fact can be published or used as proof. **Website use** means
+current public use, not future structural preparation.
+
+| Field | Current status | Source required | Owner mandatory | Public evidence required | Website use now | Notes / risk |
+| --- | --- | --- | --- | --- | --- |
+| Official/public business name | HISTORICAL | Owner confirmation and current public/quotation evidence | Yes | Yes | No | `Universal RCC Chimneys` is catalogue context only until confirmed. |
+| Legal name, entity type, and relationship to KGN | PENDING / HISTORICAL | Owner confirmation and registration/official document where applicable | Yes | Yes | No | Do not infer ownership, unit status, or legal relationship. |
+| Primary business location / exact Gujarat address | PENDING | Owner confirmation and current address evidence | Yes | Yes | No | Gujarat head office is verified; exact address is not. |
+| Exact Vuyyuru address / other offices | PENDING | Owner confirmation and current address evidence | Yes | Yes | No | Active Vuyyuru office is verified; public listing eligibility is unknown. |
+| India-wide service area | VERIFIED | User confirmation already recorded | No | No additional evidence for internal preparation | Conditional | May describe intended national coverage only; service-page claims still need scope verification. |
+| Official phone numbers, email, WhatsApp, contact person | PENDING | Owner confirmation and approved contact route | Yes | Yes | No | Historical contacts must not be reused. |
+| Business hours and emergency/repair availability | PENDING | Owner confirmation | Yes | Yes | No | Never imply emergency response or hours without approval. |
+| RCC chimney construction capability and exclusions | HISTORICAL | Owner confirmation of current scope, delivery model, and exclusions | Yes | Yes | No | No current service claim or page. |
+| Industrial chimney construction capability and exclusions | PENDING | Owner confirmation of scope and applicable materials/types | Yes | Yes | No | Must not be inferred from RCC catalogue material. |
+| Chimney repair capability and exclusions | HISTORICAL | Owner confirmation of current repair scope | Yes | Yes | No | Generic consumer repair must not be implied. |
+| Boiler / stack / flue repair capability | PENDING | Owner confirmation of exact applicable equipment and exclusions | Yes | Yes | No | Historical boiler-repair wording is insufficient for detailed claims. |
+| Refractory works capability and exclusions | HISTORICAL | Owner confirmation of current scope | Yes | Yes | No | No current service claim or page. |
+| Refractory material supply capability / brands / supply model | HISTORICAL / PENDING | Owner confirmation and supplier/product evidence where published | Yes | Yes | No | Do not imply manufacturing, brands, installation, or stock availability. |
+| RCC/MS chimney painting capability / coating scope | HISTORICAL | Owner confirmation of current scope and exclusions | Yes | Yes | No | Do not claim coating systems, specifications, or guarantees. |
+| Engineering, design, calculations, structural capability | PENDING | Owner confirmation plus credential/technical evidence for public claims | Yes | Yes | No | Catalogue technical material is not proof of current professional capability. |
+| Turnkey delivery, installation, project management | PENDING | Owner confirmation of delivery responsibilities and exclusions | Yes | Yes | No | Do not imply end-to-end responsibility. |
+| Industries served | HISTORICAL | Owner confirmation and preferably recent project evidence | Yes | Yes | No | Historical catalogue industries are not current target-market claims. |
+| Project history, project locations, technical scope, outcomes | PENDING / HISTORICAL | Owner-confirmed project record for each item | Yes | Yes | No | Historical entries require project-by-project validation. |
+| Client names, logos, testimonials, and publication permissions | PENDING | Per-client written/recorded permission and source | Yes | Yes | No | Never assume client or testimonial permission. |
+| Project photographs and usage rights | PENDING | Asset owner, project identity, and usage permission per image | Yes | Yes | No | Do not represent stock or unverified photos as company work. |
+| GSTIN, registrations, licences, MSME/Udyam | PENDING | Current documentary evidence | Yes | Yes | No | Do not publish identifiers or compliance claims without evidence. |
+| Certifications, engineering credentials, safety credentials | PENDING | Current certificate/credential and approved wording | Yes | Yes | No | No ISO, safety, or professional credential claim is currently approved. |
+| Establishment year / years of experience | HISTORICAL | Owner confirmation and supporting evidence | Yes | Yes | No | Do not calculate or claim years from the catalogue date. |
+| Team, leadership, roles, biographies, photographs | PENDING | Owner confirmation and individual publication consent | Yes | Yes | No | Only involvement of Md. Ziaullah / Md. Kamaal Pasha is verified; role is pending. |
+| Guarantees, warranties, SLAs, performance claims | PENDING | Owner-approved documented terms | Yes | Yes | No | Never imply warranty, safety, performance, or response guarantees. |
+| Enquiry routing, qualification fields, data retention, CRM | PENDING | Owner workflow confirmation | Yes | Yes | No | Determines form scope and data handling; no form implementation yet. |
+| Customer acquisition, conversion definition, response expectation | PENDING | Owner interview | Yes | No for internal research | No | Required to design lead journey and meaningful measurement. |
+
+## Supported Structural Preparation
+
+The following may be prepared as **non-public structural placeholders only**:
+
+- A national B2B information-architecture hypothesis, because India-wide
+  intended coverage is verified.
+- Generic page categories such as Home, Services, Projects, About, and Contact
+  as navigation concepts, with no claims, service detail, locations, contacts,
+  projects, structured data, or metadata written from unverified facts.
+- Research workflows, source records, content-evidence inventory templates, and
+  a future enquiry-flow requirements document.
+
+The following are **blocked for public content and final architecture** until
+the listed fields are verified: service pages, local/location pages, project or
+client pages, contact details, trust/credential content, testimonial content,
+LocalBusiness or Organization details, lead-form fields, and all detailed
+conversion claims.
+
+---
+
 # 3. Business Identity
 
 ## Universal RCC Chimneys

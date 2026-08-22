@@ -71,6 +71,21 @@ until its status is updated there.
 21. Which actions should count as qualified leads (call, WhatsApp, form,
     quotation request, tender invite), and who will review them?
 
+## Team, Terms, and Availability
+
+22. Which people, names, titles, biographies, and photographs may be published?
+    Confirm each person's role and publication consent.
+23. What normal business hours, after-hours policy, and emergency/urgent repair
+    availability may be stated publicly? Do not imply a response guarantee
+    unless approved documented terms exist.
+24. Does the business offer guarantees, warranties, service-level commitments,
+    inspection reports, or performance commitments? Provide the precise approved
+    wording, exclusions, duration, and source document for each.
+25. Are there any industries, work categories, locations, safety conditions, or
+    project sizes the company does not accept and that a website should not
+    encourage?
+
+
 ## Completion Record
 
 For each answer, capture: answer date, person confirming it, supporting file or

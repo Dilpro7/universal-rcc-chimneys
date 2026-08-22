@@ -102,11 +102,13 @@ Codex should:
 
 ## Owner Interview
 
-- [ ] Prepare owner interview questionnaire
+- [x] Prepare owner interview questionnaire (`docs/research/owner-verification-questionnaire.md`)
 - [ ] Conduct owner interview when available
 - [ ] Update verification documents
 - [ ] Record newly verified information
 - [ ] Identify unresolved questions
+- [x] Create authoritative website implementation readiness register
+      (`docs/business/verification-status.md`)
 
 This owner-verification work should be prepared early so later SEO,
 information-architecture, and content decisions do not assume
@@ -594,16 +596,31 @@ When the business owner becomes available:
 
 The current highest-priority tasks are:
 
-1. [-] Collect reproducible, dated SERP snapshots for the initial commercial themes (autocomplete discovery recorded; results-page capture remains blocked)
-2. [!] Build a purposive direct/SERP/regional/national competitor sample (blocked pending reproducible SERP access)
-3. [-] Create evidence-backed keyword and intent clusters, conditional on service verification (initial autocomplete clusters recorded)
-4. [ ] Review all foundation documents
-5. [ ] Create initial documentation commit
-6. [x] Prepare owner verification questionnaire (`docs/research/owner-verification-questionnaire.md`)
-7. [ ] Begin domain research and shortlisting after public business-name confirmation
-8. [ ] Conduct owner interview when available and update the verification register
-9. [ ] Determine information architecture after business and search-intent gates
-10. [ ] Determine technology architecture after information architecture and lead workflow
+1. [ ] Conduct owner interview and populate the authoritative verification register
+
+2. [ ] Verify current service scope, exclusions, and delivery model before service-page architecture
+
+3. [ ] Verify public identity, exact office/contact details, business hours, and contact routing
+
+4. [ ] Verify recent projects, client/photo permissions, and permissible trust evidence
+
+5. [-] Collect reproducible, dated SERP snapshots for the initial commercial themes (autocomplete discovery recorded; results-page capture remains blocked)
+
+6. [!] Build a purposive direct/SERP/regional/national competitor sample (blocked pending reproducible SERP access)
+
+7. [-] Create evidence-backed keyword and intent clusters, conditional on service verification (initial autocomplete clusters recorded)
+
+8. [ ] Begin domain research and shortlisting after public business-name confirmation
+
+9. [ ] Review all foundation documents
+
+10. [ ] Create initial documentation commit
+
+11. [x] Prepare owner verification questionnaire (`docs/research/owner-verification-questionnaire.md`)
+
+12. [ ] Conduct owner interview when available and update the verification register
+13. [ ] Determine information architecture after business and search-intent gates
+14. [ ] Determine technology architecture after information architecture and lead workflow
 
 ---
 
