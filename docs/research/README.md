@@ -220,7 +220,26 @@ rather than making this README unnecessarily large.
 
 ---
 
-# 10. Recommended Research Format
+# 10. Evidence Record Standard
+
+Every material finding must be concise and traceable. Record:
+
+| Field | Requirement |
+| --- | --- |
+| Finding | A short, decision-relevant claim |
+| Classification | Fact, observation, inference, or recommendation |
+| Source and URL | Direct page/source URL, not a fabricated citation |
+| Date | Observation date for volatile evidence; publication date where known |
+| Evidence type | For example official source, SERP snapshot, first-party site, or interview |
+| Scope | Query/locale/device, company, or other relevant boundary |
+| Confidence | High, medium, or low, with uncertainty noted |
+| Decision impact | Task, decision, or page affected |
+| Business status | Required for business facts: link to the verification register |
+
+`methodology.md` defines the common research sequence, workstream methods,
+and source hierarchy. Do not convert research notes into business claims.
+
+# 11. Recommended Research Format
 
 Use this structure when creating a research document:
 
@@ -268,7 +287,7 @@ State which project decision the research affects.
 
 ---
 
-# 11. Research Efficiency
+# 12. Research Efficiency
 
 Do not repeatedly investigate questions that have already been answered
 and documented.
@@ -288,7 +307,7 @@ deprioritized.
 
 ---
 
-# 12. Research Integrity
+# 13. Research Integrity
 
 Never:
 
@@ -304,7 +323,7 @@ If reliable information cannot be obtained, explicitly state that.
 
 ---
 
-# 13. Relationship to Project Decisions
+# 14. Relationship to Project Decisions
 
 Research does not automatically become a project decision.
 
@@ -322,34 +341,50 @@ Significant decisions should be recorded separately in:
 
 ---
 
-# 14. Current Research Status
+# 15. Current Research Status
 
 Status:
 
-NOT STARTED
+RECONNAISSANCE / SYSTEM SETUP COMPLETE
 
 Current priority:
 
-Complete the initial research methodology and then begin structured
-market, competitor, domain, technology, and SEO research.
+Collect dated SERP snapshots and build a purposive competitor sample before
+keyword-to-page mapping or final information architecture.
 
 The business owner is currently unavailable, so owner-dependent
 information must remain explicitly marked as pending.
 
 ---
 
-# 15. Future Research Documents
+# 16. Active Research Documents and Incremental Structure
 
-Potential documents include:
+Current documents:
 
-- `competitors.md`
-- `market-analysis.md`
-- `customer-research.md`
-- `technology-evaluation.md`
-- `hosting-evaluation.md`
-- `domain-research.md`
-- `research-log.md`
+- `methodology.md` — research decision gates, evidence standard, and methods
+- `owner-verification-questionnaire.md` — owner-only verification questions
+- `serp/google-autocomplete-2026-08-22.md` — dated query-discovery evidence
+- `keywords/initial-intent-clusters-2026-08-22.md` — provisional clusters
+- `technical/google-search-guidance-2026-08-22.md` — primary Google guidance
+- `domains/domain-research-status-2026-08-22.md` — domain-research boundary
+- `competitors/research-status-2026-08-22.md` — documented SERP-access limit
 
-Create files only when they provide meaningful persistent value.
+Create these directories only when their first evidence-backed record is ready:
+
+```text
+docs/research/
+├── competitors/  # one dated analysis per sampled domain or comparison
+├── serp/         # reproducible query snapshots and observations
+├── keywords/     # clustered keyword evidence and page-mapping work
+├── domains/      # dated candidate scoring and availability checks
+├── technical/    # technology-neutral requirements research
+└── sources/      # only sources reused across multiple research files
+```
+
+Keep industry, buyer, conversion, and market findings in a single focused topic
+file until volume justifies a directory. Each research file begins with its
+question, date, scope, short conclusion, next action, and evidence records.
+Create files only when they provide meaningful persistent value; do not create
+empty placeholders or retain undifferentiated research dumps.
 
 Do not create unnecessary documentation files.
